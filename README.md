@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samindika Lakshan</h1>
 <h3 align="center">An undergraduate who develop software.</h3>
+<img align="right" alt="coading" width="400" height= "400" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611vlcm0969gfny7ooc68czd0dzw7ll5etsf9jnhqth&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samindikalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="samindikalakshan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samindikalakshan" alt="samindikalakshan" /></a> </p>
 
 - 🌱 I’m currently learning **React, React native and spring boot**
 
@@ -28,7 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samindikalakshan&show_icons=true&locale=en" alt="samindikalakshan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samindikalakshan&" alt="samindikalakshan" /></p>
 
 <!---
 SamindikaLakshan/SamindikaLakshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
