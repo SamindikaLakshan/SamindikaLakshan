@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samindikalakshan71@gmail.com**
 
-- ⚡ Fun fact **I'm a funny, musically and Sport person.**
+- ⚡ Fun fact **I'm a funny, musically and Sporty person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
