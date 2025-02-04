@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, React native and spring boot**
 
-- 💬 Ask me about **HTML, CSS, Java script, Python, Java, C, React**
+- 💬 Ask me about **HTML, CSS, Java script, Python, Java, C**
 
 - 📫 How to reach me **samindikalakshan71@gmail.com**
 
