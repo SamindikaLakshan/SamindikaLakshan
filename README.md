@@ -2,6 +2,8 @@
 <h3 align="center">An undergraduate who develop software.</h3>
 <hr class="w-64 h-1 my-8 bg-gray-200 border-0 rounded-sm dark:bg-gray-700">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samindikalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="samindikalakshan" /> </p>
+
 <img align="right" alt="coading" width="400" height= "290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611vlcm0969gfny7ooc68czd0dzw7ll5etsf9jnhqth&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
